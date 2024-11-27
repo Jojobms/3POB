@@ -1,0 +1,4 @@
+1;Desenvolvedor;walter;1000.0
+2;GerenteDesenvolvedor;bob;22.0
+3;Treinador;alice kuonji;1.0E7
+4;GerenteDesenvolvedor;jorge;80.0
